@@ -1,0 +1,18 @@
+ 
+.single_content h2 i {
+    font-size: 2 rem;
+    margin-bottom: 20px;
+    
+}
+
+.single_content h6{
+    font-weight: 600;
+}
+
+.features{
+    margin-top: 50px;
+}
+
+i{
+    color: burlywood;
+}

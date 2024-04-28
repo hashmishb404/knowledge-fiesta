@@ -1,0 +1,12 @@
+
+.company{
+    width: 100%;
+    height: 50px;
+    
+    gap: 20px;
+    padding: 40px;
+    color:rgba(129, 5, 5, 0.687);
+   margin-bottom: 40px;
+
+
+}

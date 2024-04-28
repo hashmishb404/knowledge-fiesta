@@ -1,0 +1,41 @@
+.about_counter{
+   margin-top: 30px;
+
+
+}
+
+.about{
+padding-top: 35px;
+padding-bottom: 35px;
+margin-top: 50px;
+}
+
+
+
+.counter{
+    font-size: 2rem;
+    color: black;
+    font-weight: 600;
+}
+
+.counter_title {
+    
+    font-size: 1rem;
+    color: black;
+    font-weight: 500;
+
+}
+
+img{
+   width: 500px;
+   length : 400px;
+   border-radius: 60px;
+margin-bottom: 50px
+
+
+}
+h2{
+   font-weight: 700;
+
+}
+

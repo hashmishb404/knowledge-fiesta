@@ -1,0 +1,27 @@
+
+
+.testimonials_content h2{
+  font-weight: 600;
+}
+.voice{
+    margin-bottom: 50px;
+   font-weight: 800px;
+}
+.img11{
+    border-radius: none;
+    height: 300px;
+    width: 150px;
+    margin-top: 50px;
+}
+.testimonials_content {
+  background-color: blanchedalmond;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+  cursor: pointer;
+
+
+ 
+}

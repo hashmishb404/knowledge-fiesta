@@ -1,0 +1,23 @@
+.footer{
+    background-color: tan;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.follows span a i{
+    text-decoration: none;
+    color: blue;
+    font-size: 20px ;
+    background-color: #ffebcd;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.link_list , .link_items{
+    background-color: transparent;
+}
+.link_list a {
+      text-decoration: none;
+      color: #0a2b1e;
+      font-weight: 500;
+
+}

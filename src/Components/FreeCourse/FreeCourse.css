@@ -1,0 +1,59 @@
+
+.img{
+    border-radius: 10px;
+    height: 150px;
+}
+ 
+.free_course_img{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 999;
+    top: 0;
+    left: 0;
+}
+.free_btn{
+    position: absolute;
+    bottom: -8px;
+    right: 10px;
+    z-index: 9999;
+    font-size: .9rem;
+    padding: 5px 15px;
+    width: 90px;
+    height: 40px;
+    background-color: red;
+
+    
+}
+
+.free_course_details h6{
+    font-weight: 1000;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    text-align: center;
+    margin-top: 20px;
+}
+.single_free_course{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+}
+.free_course_details i{
+    font-size: 0.9rem;
+}
+.free_course_details span{
+    font-size: 0.9rem;
+}
+.free{
+    padding-left: 35px;
+}
+
+.title{
+    background-color: seagreen;
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px ;
+    font-weight: 800;
+
+}
