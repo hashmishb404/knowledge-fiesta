@@ -34,7 +34,7 @@ function CourseCard(props) {
      </i>
      </p>
      <p className="enroll d-flex jalign-items-center gap-1">
-     <a href="">Enroll Now</a>
+     <button href="">Enroll Now</button>
      </p>
      </div>
 
